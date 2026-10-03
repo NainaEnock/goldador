@@ -13,6 +13,7 @@ timeframe = "2026-2027"
 
 [[membership.members]]
 github-username = "aanya21gupta"
+leads = true
 
 [[membership.members]]
 github-username = "janek0420"
