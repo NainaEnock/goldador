@@ -1,22 +1,16 @@
 name = "Scotty's Coffee"
 description = "A CMU-only platform designed to make networking between students feel less like collecting connections and more like having real conversations."
 
-[[leads]]
-github-username = "aanya21gupta"
-
-[[leads]]
-github-username = "NainaEnock"
-
 [[repos]]
 name = "scotty-coffee"
 description = "A CMU-only platform designed to make networking between students feel less like collecting connections and more like having real conversations."
 
 [[membership]]
 timeframe = "2026-2027"
+leads = ["NainaEnock", "aanya21gupta"]
 
 [[membership.members]]
 github-username = "aanya21gupta"
-leads = true
 
 [[membership.members]]
 github-username = "janek0420"
@@ -29,7 +23,6 @@ github-username = "msarora-cyber"
 
 [[membership.members]]
 github-username = "NainaEnock"
-leads = true
 
 [[membership.members]]
 github-username = "RocketRules"
