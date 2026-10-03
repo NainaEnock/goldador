@@ -1,6 +1,9 @@
 name = "Scotty's Coffee"
 description = "A CMU-only platform designed to make networking between students feel less like collecting connections and more like having real conversations."
 
+[[leads]]
+github-username = "aanya21gupta"
+
 [[repos]]
 name = "scotty-coffee"
 description = "A CMU-only platform designed to make networking between students feel less like collecting connections and more like having real conversations."
